@@ -1,0 +1,19 @@
+{
+  "name": "lighthouse-project",
+  "version": "1.0.0",
+  "description": "A lighthouse implementation using NodeJS technology",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "exit 1"
+  },
+  "keywords": [
+    "lighthouse"
+  ],
+  "author": "Antonio Segura",
+  "license": "ISC",
+  "dependencies": {
+    "chrome-launcher": "^0.10.5",
+    "lighthouse": "^4.2.0"
+  }
+}
